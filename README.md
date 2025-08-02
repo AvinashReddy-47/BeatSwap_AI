@@ -1,6 +1,6 @@
 # 🥁 BeatSwap AI
 
-**BeatSwap** is an AI-powered tool that takes a vocal track and generates alternate beats that match its vibe, key, and tempo — helping artists remix or reimagine their music effortlessly.
+**BeatSwap** is an AI-powered tool that takes a vocal track and generates alternate beats that match its vibe, key, and tempo helping artists remix or reimagine their music effortlessly.
 
 ### 🚀 Features
 - 🎙️ Vocal-Instrumental Separation
